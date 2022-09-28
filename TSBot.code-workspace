@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.inlayHints.enabled": "on",
+		"editor.inlayHints.padding": false,
+		"typescript.inlayHints.enumMemberValues.enabled": true,
+		"typescript.inlayHints.parameterNames.enabled": "all",
+		"typescript.inlayHints.parameterTypes.enabled": true,
+		"typescript.inlayHints.variableTypes.enabled": true,
+		"typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+		"typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+		"editor.formatOnSave": true,
+		"typescript.autoClosingTags": true,
+		"typescript.check.npmIsInstalled": true,
+		"typescript.format.insertSpaceAfterCommaDelimiter": true,
+		"editor.autoClosingQuotes": "always",
+		"typescript.preferences.quoteStyle": "single",
+		"typescript.format.insertSpaceAfterConstructor": true,
+		"typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": true,
+		"typescript.format.insertSpaceAfterKeywordsInControlFlowStatements": true,
+		"typescript.format.semicolons": "insert",
+		"typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": false,
+		"typescript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+		"typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+		"typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+		"typescript.format.insertSpaceAfterTypeAssertion": true,
+		"typescript.suggest.completeJSDocs": true,
+		"typescript.preferences.useAliasesForRenames": true,
+		"typescript.preferences.importModuleSpecifier": "relative"
+	}
+}

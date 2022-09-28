@@ -1,0 +1,24 @@
+{
+	"name": "example-discordjs-bot",
+	"version": "1.0.0",
+	"description": "A TS discord.js example bot.",
+	"main": "./dist/index.js",
+	"scripts": {
+		"start": "node ./dist/index.js",
+		"build": "tsc",
+		"watch": "tsc -w"
+	},
+	"author": "UselessStar",
+	"license": "MIT",
+	"dependencies": {
+		"discord.js": "^14.5.0",
+		"dotenv": "^16.0.2"
+	},
+	"devDependencies": {
+		"@types/node": "^18.7.23",
+		"@typescript-eslint/eslint-plugin": "^5.38.1",
+		"@typescript-eslint/parser": "^5.38.1",
+		"eslint": "^8.24.0",
+		"typescript": "^4.8.4"
+	}
+}
